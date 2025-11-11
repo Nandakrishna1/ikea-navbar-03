@@ -3,6 +3,8 @@
 This project features a responsive navigation bar inspired by IKEA’s minimal design, built using HTML, Tailwind CSS, and Font Awesome icons.
 It includes a search bar, logo, and user action icons (user profile, favorites, and cart), with a hamburger menu for mobile screens.
 
+[live at](https://nandakrishna1.github.io/ikea-navbar-03/)
+
 ## 🚀 Features
 
 - Responsive Design — Adapts seamlessly across screen sizes using Tailwind’s responsive utilities.
